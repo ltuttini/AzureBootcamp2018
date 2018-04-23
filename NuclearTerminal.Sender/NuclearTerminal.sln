@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuclearTerminal.Simulator.UI", "NuclearTerminal.Simulator.UI\NuclearTerminal.Simulator.UI.csproj", "{1E6CC3F6-683D-46B3-A9EB-1A4082B6F754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuclearTerminal.EventHub.Sender", "NuclearTerminal.EventHub.Sender\NuclearTerminal.EventHub.Sender.csproj", "{F6C21174-F89E-476C-B284-E59D80CA44BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6CC3F6-683D-46B3-A9EB-1A4082B6F754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6CC3F6-683D-46B3-A9EB-1A4082B6F754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6CC3F6-683D-46B3-A9EB-1A4082B6F754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6CC3F6-683D-46B3-A9EB-1A4082B6F754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C21174-F89E-476C-B284-E59D80CA44BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C21174-F89E-476C-B284-E59D80CA44BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C21174-F89E-476C-B284-E59D80CA44BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C21174-F89E-476C-B284-E59D80CA44BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3C033D-6D51-48E4-A20A-23D4D2680D15}
+	EndGlobalSection
+EndGlobal
